@@ -1,8 +1,7 @@
 # Cinema-et-Musique
-#Musique et Cinema
 
 Musique
-<div> hi </div>
+
 Emotions et Musique
 
 La musique est une succession de signaux acoustiques que nos oreilles captent et envoient au cerveau. Là, ils sont décodés et reçoivent un sens. Et le tout en quelques fractions de seconde. Mais, pour que cela se produise, le cerveau implique des émotions, qui sont responsables de la conversion du son en quelque chose de compréhensible. “La musique nous encourage, nous détend, nous attriste, nous rend heureux… elle a la capacité de changer notre humeur, elle est capable d’évoquer le noyau des structures responsables de notre univers émotionnel.” Il y a des sociétés sans écriture, mais aucune sans musique. Nous sommes des créatures musicales par nature. Et il y a une bonne raison à cela : cela nous permet d’exercer des fonctions sociales. Lorsque nous naissons, nous ne savons pas ce que signifient un grand nombre de termes, mais nous apprenons à parler en écoutant les sons musicaux du langage. Écouter de la musique active les zones du cerveau qui sont en charge de l'imitation et de l’empathie, là où se trouvent les neurones miroirs, qui agissent en reflétant les actions et les intentions des autres comme si elles étaient les leurs. De cette façon, nous pouvons ressentir la douleur des autres, leur joie, leur tristesse… cela nous permet de partager des sentiments et des émotions. La musique peut communiquer des informations. C’est rassembleur, c’est social. Ce sont quelques-uns des grands pouvoirs de la musique. Nous n’aurions pas pu survivre à travers l'évolution sans coopérer et communiquer, sans avoir manifesté un comportement social avec d’autres individus. La musique nous fait nous aimer davantage, que nous sommes plus unis, que nous avons confiance.
